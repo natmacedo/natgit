@@ -1,5 +1,7 @@
 #!/bin/bash
-#"Eu sou Tryber e as aulas são maravilhosas"
+
+#"Vou ter muito sucesso na programação!"
+
 palavras="shell script usando estrutura repeticao for terminal"
 
 for nome in $palavras
