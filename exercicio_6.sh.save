@@ -1,0 +1,19 @@
+#!/bin/bash
+
+read -p "Informe o caminho de um arquivo ou diretorio " caminho
+
+iste!"
+
+elif [ -f $caminho ]
+then
+
+   echo "Eh um arquivo comum"
+
+else [ -d $caminho ]
+
+   echo "Eh um diretorio"
+
+i
+
+
+
